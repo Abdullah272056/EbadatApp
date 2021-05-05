@@ -135,7 +135,7 @@
                                     android:textAlignment="center"
                                     android:textColor="#D5B75E"
                                     android:textSize="14sp"
-                                    android:text="ফজর"
+                                    android:text="dফজর"
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"/>
 
